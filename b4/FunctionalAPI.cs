@@ -179,7 +179,7 @@ public class FunctionalAPI
         }
     }
 
-    public async Task<(string?, string?)> GetRealTimeTemp()
+    public async Task<(string?,string?, string?)> GetRealTimeTemp()
     {
         var requestObject = new Request
         {
@@ -201,13 +201,13 @@ public class FunctionalAPI
             var min_temp = jsonObject["message"]["global_min_temp"].ToString();
 
             await Console.Out.WriteLineAsync($"Average temp:  {avg_temp}, Min Temp: {min_temp}, Max Temp: {max_temp}");
-            return (min_temp, max_temp);
+            return (avg_temp, min_temp, max_temp);
 
         }
         else
         {
             Console.WriteLine($"HTTP request failed: {response.StatusCode}");
-            return (null, null);
+            return (null, null, null);
         }
         
     }
