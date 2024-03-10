@@ -1,0 +1,17 @@
+C:\Dev\source\repos\CSharp\b4\bin\Debug\net8.0\b4.exe
+C:\Dev\source\repos\CSharp\b4\bin\Debug\net8.0\b4.deps.json
+C:\Dev\source\repos\CSharp\b4\bin\Debug\net8.0\b4.runtimeconfig.json
+C:\Dev\source\repos\CSharp\b4\bin\Debug\net8.0\b4.dll
+C:\Dev\source\repos\CSharp\b4\bin\Debug\net8.0\b4.pdb
+C:\Dev\source\repos\CSharp\b4\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Dev\source\repos\CSharp\b4\obj\Debug\net8.0\b4.csproj.AssemblyReference.cache
+C:\Dev\source\repos\CSharp\b4\obj\Debug\net8.0\b4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\source\repos\CSharp\b4\obj\Debug\net8.0\b4.AssemblyInfoInputs.cache
+C:\Dev\source\repos\CSharp\b4\obj\Debug\net8.0\b4.AssemblyInfo.cs
+C:\Dev\source\repos\CSharp\b4\obj\Debug\net8.0\b4.csproj.CoreCompileInputs.cache
+C:\Dev\source\repos\CSharp\b4\obj\Debug\net8.0\b4.csproj.Up2Date
+C:\Dev\source\repos\CSharp\b4\obj\Debug\net8.0\b4.dll
+C:\Dev\source\repos\CSharp\b4\obj\Debug\net8.0\refint\b4.dll
+C:\Dev\source\repos\CSharp\b4\obj\Debug\net8.0\b4.pdb
+C:\Dev\source\repos\CSharp\b4\obj\Debug\net8.0\b4.genruntimeconfig.cache
+C:\Dev\source\repos\CSharp\b4\obj\Debug\net8.0\ref\b4.dll

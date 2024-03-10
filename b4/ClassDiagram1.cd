@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="b4.ConfigAPI">
+    <Position X="1.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAABAAACAAAAAAAAAA=</HashCode>
+      <FileName>ConfigAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b4.FunctionalAPI">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAACAoAAAAAEBAAACAQAAAAAAAA=</HashCode>
+      <FileName>FunctionalAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b4.HttpCamClient">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAEAAAAAAAAAAAAAAAAAACAIAsAAAAAA=</HashCode>
+      <FileName>HttpCamClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b4.HttpUtility">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>HttpUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b4.Program">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b4.Request">
+    <Position X="8.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEABAAQAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAACA=</HashCode>
+      <FileName>Request.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="b4.Message">
+    <Position X="5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kEBGUIAAgAAAAIgCAIFAgEEEEMAACAIBAAABAgsQAAA=</HashCode>
+      <FileName>Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
