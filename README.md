@@ -1,3 +1,4 @@
 ## Noting
 
-This is just where I create and test some of my C# projects, which are used for testing the functionality of some of my real projects :)
+- This is just where I create and test functionality of some of my real projects :)
+- Mainly i use python/shell script (Powershell/bash) for auto, c# for writing app
