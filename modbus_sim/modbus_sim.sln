@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusTCPCore", "..\ModbusTCPCore\ModbusTCPCore.csproj", "{EB5415B9-02D9-4F69-8483-006D9EC661EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5415B9-02D9-4F69-8483-006D9EC661EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5415B9-02D9-4F69-8483-006D9EC661EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5415B9-02D9-4F69-8483-006D9EC661EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5415B9-02D9-4F69-8483-006D9EC661EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E1EA1CC-8B58-4CBB-93A7-DB59ED3562EC}
+	EndGlobalSection
+EndGlobal

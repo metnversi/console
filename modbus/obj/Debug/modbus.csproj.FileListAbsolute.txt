@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\console\modbus\bin\Debug\modbus.exe.config
+C:\Users\Administrator\Desktop\console\modbus\bin\Debug\modbus.exe
+C:\Users\Administrator\Desktop\console\modbus\bin\Debug\modbus.pdb
+C:\Users\Administrator\Desktop\console\modbus\bin\Debug\EasyModbus.dll
+C:\Users\Administrator\Desktop\console\modbus\bin\Debug\EasyModbus.xml
+C:\Users\Administrator\Desktop\console\modbus\obj\Debug\modbus.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\console\modbus\obj\Debug\modbus.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\console\modbus\obj\Debug\modbus.csproj.Up2Date
+C:\Users\Administrator\Desktop\console\modbus\obj\Debug\modbus.exe
+C:\Users\Administrator\Desktop\console\modbus\obj\Debug\modbus.pdb
