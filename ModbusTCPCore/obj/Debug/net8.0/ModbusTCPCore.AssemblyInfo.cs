@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModbusTCPCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71cd3f14bc34f62aa5d8a2b7493a6bb054323ebc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+922df482439fac1d53c19c3b79a1e1e8c2ea6eea")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModbusTCPCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModbusTCPCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -41,6 +41,14 @@ namespace ModbusTCPCore
             }
 
             modbusClient.Disconnect();
+            // Keep the program running until the user presses 'q'
+            System.Console.WriteLine("Press 'q' to quit the program");
+            while (Console.ReadKey().Key != ConsoleKey.Q)
+            {
+                // Do nothing, just wait for the user to press 'q'
+            }
+
+            modbusServer.StopListening();
         }
     }
 }

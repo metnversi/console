@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Dev\\source\\repos\\CSharp\\b4\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\console\\b4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|C:\\Dev\\source\\repos\\CSharp\\b4\\functionalapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|C:\\Users\\Administrator\\Desktop\\console\\b4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|c:\\users\\administrator\\desktop\\console\\b4\\functionalapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|solutionrelative:functionalapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|c:\\dev\\source\\repos\\csharp\\b4\\configapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|C:\\Users\\Administrator\\Desktop\\console\\b4\\configapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|solutionrelative:configapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|C:\\Dev\\source\\repos\\CSharp\\b4\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|C:\\Users\\Administrator\\Desktop\\console\\b4\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|solutionrelative:request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|C:\\Dev\\source\\repos\\CSharp\\b4\\authenapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|C:\\Users\\Administrator\\Desktop\\console\\b4\\authenapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|solutionrelative:authenapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|C:\\Dev\\source\\repos\\CSharp\\b4\\httpcamclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|C:\\Users\\Administrator\\Desktop\\console\\b4\\httpcamclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|solutionrelative:httpcamclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|C:\\Dev\\source\\repos\\CSharp\\b4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A333AF00-8734-42A2-A217-7425BEC3501F}|b4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,37 +46,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Request.cs",
-              "DocumentMoniker": "C:\\Dev\\source\\repos\\CSharp\\b4\\Request.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\console\\b4\\Request.cs",
               "RelativeDocumentMoniker": "Request.cs",
-              "ToolTip": "C:\\Dev\\source\\repos\\CSharp\\b4\\Request.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\console\\b4\\Request.cs",
               "RelativeToolTip": "Request.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T16:40:30.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T16:40:30.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\console\\b4\\ConfigAPI.cs",
+              "RelativeDocumentMoniker": "ConfigAPI.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\console\\b4\\ConfigAPI.cs",
+              "RelativeToolTip": "ConfigAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T16:31:19.195Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ConfigAPI.cs",
-              "DocumentMoniker": "C:\\Dev\\source\\repos\\CSharp\\b4\\ConfigAPI.cs",
-              "RelativeDocumentMoniker": "ConfigAPI.cs",
-              "ToolTip": "C:\\Dev\\source\\repos\\CSharp\\b4\\ConfigAPI.cs",
-              "RelativeToolTip": "ConfigAPI.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T16:31:19.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "FunctionalAPI.cs",
-              "DocumentMoniker": "C:\\Dev\\source\\repos\\CSharp\\b4\\FunctionalAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\console\\b4\\FunctionalAPI.cs",
               "RelativeDocumentMoniker": "FunctionalAPI.cs",
-              "ToolTip": "C:\\Dev\\source\\repos\\CSharp\\b4\\FunctionalAPI.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\console\\b4\\FunctionalAPI.cs",
               "RelativeToolTip": "FunctionalAPI.cs",
               "ViewState": "AQIAAIsAAAAAAAAAAAAAwL0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,39 +83,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AuthenAPI.cs",
-              "DocumentMoniker": "C:\\Dev\\source\\repos\\CSharp\\b4\\AuthenAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\console\\b4\\AuthenAPI.cs",
               "RelativeDocumentMoniker": "AuthenAPI.cs",
-              "ToolTip": "C:\\Dev\\source\\repos\\CSharp\\b4\\AuthenAPI.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\console\\b4\\AuthenAPI.cs",
               "RelativeToolTip": "AuthenAPI.cs",
               "ViewState": "AQIAADEAAAAAAAAAAAAAABYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T15:15:03.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HttpCamClient.cs",
-              "DocumentMoniker": "C:\\Dev\\source\\repos\\CSharp\\b4\\HttpCamClient.cs",
-              "RelativeDocumentMoniker": "HttpCamClient.cs",
-              "ToolTip": "C:\\Dev\\source\\repos\\CSharp\\b4\\HttpCamClient.cs",
-              "RelativeToolTip": "HttpCamClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:39:59.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T15:15:03.468Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "HttpCamClient.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\console\\b4\\HttpCamClient.cs",
+              "RelativeDocumentMoniker": "HttpCamClient.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\console\\b4\\HttpCamClient.cs",
+              "RelativeToolTip": "HttpCamClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T14:39:59.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Dev\\source\\repos\\CSharp\\b4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\console\\b4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Dev\\source\\repos\\CSharp\\b4\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\console\\b4\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAuAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T23:31:17.728Z",
               "EditorCaption": ""

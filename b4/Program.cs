@@ -1,10 +1,11 @@
 ﻿namespace b4;
 
-using Newtonsoft.Json;
 using System;
+using System.Timers;
 
 public class Program
 {
+    private static Timer? heartbeatTimer;
     public static void Main()
     {
         Console.Write("Enter username: ");
@@ -41,8 +42,16 @@ public class Program
         else
         {
             client.F.OpenStream().GetAwaiter().GetResult();
-            client.A.SendHeartbeat(b).GetAwaiter().GetResult();
             client.F.GetRealTimeTemp().GetAwaiter().GetResult();
+
+            heartbeatTimer = new Timer(120000);
+            heartbeatTimer.Elapsed += (sender, e) => 
+            {
+                client.A.SendHeartbeat(b).GetAwaiter().GetResult();
+                Console.WriteLine("Send Heartbeat");
+            };
+            heartbeatTimer.Start();
+            Console.ReadLine();
 
         }
     }
